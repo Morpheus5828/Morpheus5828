@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello !👋 My name is Marius THORRE and I am computer science student. 
+### I am affiliated to Aix Marseille University in France. I would like to study AI and Neuroscience, Iam really passionated about these technologies. 
 
 <!--
 **Morpheus5828/Morpheus5828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
