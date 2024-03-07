@@ -6,6 +6,5 @@ Currently i am following a Udemy formation on Deep Learning for prepare (<a href
 
 
 
-
-![Alt Text](https://upload.wikimedia.org/wikipedia/commons/1/17/Digital_rain_animation_small_letters_clear.gif)
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Digital_rain_animation_small_letters_clear.gif" width="60" height="200" />
 
