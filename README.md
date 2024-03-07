@@ -3,5 +3,9 @@ I am affiliated to Aix Marseille University in France. I would like to study AI 
 Currently i am following a Udemy formation on Deep Learning for prepare (<a href="https://www.tensorflow.org/certificate?hl=fr"> Tenworflow Certification</a>)
 
 📫 You can reach me: marius.thorre@etu.univ-amu.fr
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+
+
+
+![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://upload.wikimedia.org/wikipedia/commons/1/17/Digital_rain_animation_small_letters_clear.gif)https://upload.wikimedia.org/wikipedia/commons/1/17/Digital_rain_animation_small_letters_clear.gif)
 
