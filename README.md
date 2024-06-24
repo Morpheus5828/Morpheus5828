@@ -1,4 +1,4 @@
-Hello !👋 My name is Marius THORRE and I am computer science student in Artifical Intelligence (<a href="https://formations.univ-amu.fr/ME5SIN-PRSIN5AC.html">M1 IAAA</a>). 
+Hello !👋 My name is Marius THORRE and I am computer science student in Artifical Intelligence (<a href="https://formations.univ-amu.fr/ME5SIN-PRSIN5AC.html">M2 IAAA</a>). 
 I'm affiliated to Aix Marseille University in France. I would like to study AI and Neuroscience.
 Currently i am an internship student at <a href="https://qarma.lis-lab.fr/">QARMA Lis Lab.</a>
 I'm working on a sulcal graph matching problem.
